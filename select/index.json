@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君の色",
+  "base_artist": "MiSCREAM",
+  "createdAt": "2026-02-21T18:57:25.197930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の色、僕の灰 (With Vocal Simp)",
+      "artist": "FrostBorne",
+      "has_synced": true,
+      "path": "select/01_君の色、僕の灰_(With_Vocal_Simp)_FrostBorne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の色",
+      "artist": "MiSCREAM",
+      "has_synced": false,
+      "path": "select/pl_01_君の色_MiSCREAM.txt"
+    }
+  ]
+}
